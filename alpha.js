@@ -1,2 +1,2 @@
-console.log("mudita joshi malkin")
-console.log("bde manager sahab")
+console.log("mudita joshi bdi malkin")
+console.log("bde bohot bde manager sahab")
